@@ -1,2 +1,2 @@
-# latest-news
-Holder of latest news for weekly email
+# latest news
+Holder of latest news for your weekly codestream email
